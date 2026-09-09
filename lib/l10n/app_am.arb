@@ -1,0 +1,21 @@
+{
+  "history": "የሂሳብ ታሪክ",
+  "recent": "የቅርብ ጊዜ ሂሳቦች",
+  "monthlyCost": "ወርሃዊ ወጪ",
+  "voltage": "ቮልቴጅ",
+  "current": "አምፒር",
+  "power": "ኃይል",
+  "dailyEnergy": "የቀን ኃይል",
+  "monthlyEnergy": "የወር ኃይል",
+  "noHistory": "ምንም ታሪክ የለም",
+  "clearHistory": "ታሪክ አጥፋ",
+  "sort": "አደርድር",
+  "calculator": "ካልኩሌተር",
+  "applianceName": "የእቃ ስም",
+  "applianceHint": "ፋን፣ ማሞቂያ፣ ሞተር",
+  "hours": "በቀን ሰዓት",
+  "rate": "የኤሌክትሪክ ዋጋ",
+  "calculate": "አስላ",
+  "clear": "ሁሉንም አጥፋ",
+  "saved": "ሂሳቡ ተቀምጧል"
+}

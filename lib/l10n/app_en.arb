@@ -1,0 +1,21 @@
+{
+  "history": "Calculation History",
+  "recent": "Your recent calculations",
+  "monthlyCost": "Monthly Cost",
+  "voltage": "Voltage",
+  "current": "Current",
+  "power": "Power",
+  "dailyEnergy": "Daily Energy",
+  "monthlyEnergy": "Monthly Energy",
+  "noHistory": "No history yet",
+  "clearHistory": "Clear History",
+  "sort": "Sort",
+  "calculator": "Calculator",
+  "applianceName": "Appliance Name",
+  "applianceHint": "Fan, Heater, Motor",
+  "hours": "Hours per Day",
+  "rate": "Rate per kWh",
+  "calculate": "Calculate",
+  "clear": "Clear All",
+  "saved": "Calculation saved to history"
+}
