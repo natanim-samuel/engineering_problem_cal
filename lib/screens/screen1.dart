@@ -10,8 +10,7 @@ class screen1 extends StatelessWidget {
          color: Colors.purpleAccent,
 
         ),
-      )
-    );
+      );
   }
 }
 
