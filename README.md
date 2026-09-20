@@ -1,17 +1,67 @@
-# engineering_problem_cal
+# 🧮 Engineering Problem Calculator
 
-A new Flutter project.
+A Flutter application designed to assist users with engineering-related mathematical calculations.
 
-## Getting Started
+## 📌 About the Project
 
-This project is a starting point for a Flutter application.
+Engineering Problem Calculator is a mobile application project focused on simplifying mathematical calculations used in engineering-related problems.
 
-A few resources to get you started if this is your first Flutter project:
+The project provides an opportunity to practice Flutter development and implement calculation logic in a mobile interface.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## ✨ Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 🧮 Engineering calculations
+- 📐 Mathematical problem solving
+- 📊 Calculation results
+- 📱 Mobile application interface
+- 🎨 Simple user interface
+
+## 🛠️ Technologies Used
+
+- Flutter
+- Dart
+- Material Design
+
+## 🚀 Getting Started
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/natanim-samuel/engineering_problem_cal.git
+   ```
+
+2. Navigate to the project:
+
+   ```bash
+   cd engineering_problem_cal
+   ```
+
+3. Install dependencies:
+
+   ```bash
+   flutter pub get
+   ```
+
+4. Run the application:
+
+   ```bash
+   flutter run
+   ```
+
+## ⚠️ Disclaimer
+
+The calculator is intended for educational and computational purposes. Verify calculations independently before using them in real engineering decisions.
+
+## 🔮 Future Improvements
+
+- Add more engineering formulas
+- Improve input validation
+- Add calculation history
+- Improve interface design
+- Include formula explanations
+
+## 👨‍💻 Author
+
+**Natanim Samuel**
+
+GitHub: https://github.com/natanim-samuel
